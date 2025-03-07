@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+xlsxwriter
+random
+string
+base64
